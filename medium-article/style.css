@@ -49,7 +49,7 @@ a {
 .link-medium:hover {
   background-image: linear-gradient(to bottom, rgba(125, 255, 179, 1), rgba(125, 255, 179, 1));}
 
-/* Media queries */
+/* Media queries Exo 6 */
 
 @media(max-width: 1200px) {
   .container {
